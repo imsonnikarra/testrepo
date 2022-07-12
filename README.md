@@ -1,6 +1,6 @@
 # My Jupyter Notebook on IBM Watson Studio
 
-# SUNIL KUMAR
+# Sunil Kumar
  100% human
 
 
